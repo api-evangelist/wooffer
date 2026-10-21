@@ -1,0 +1,16 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/wooffer/integrations
+- https://n8n.io/integrations/wooffer/
+- https://composio.dev/toolkits/wooffer
+- https://monid.ai/tools/wooffer
+checked:
+- https://composio.dev/toolkits/wooffer
+- https://monid.ai/tools/wooffer
+- https://n8n.io/integrations/wooffer/
+- https://zapier.com/apps/wooffer/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
