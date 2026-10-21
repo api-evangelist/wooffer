@@ -1,7 +1,6 @@
 aid: wooffer
 name: wooffer
-description: 'wooffer is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Wooffer provides real-time server monitoring to prevent downtime and ensures optimal performance of business-critical applications. Their platform offers comprehensive metrics, alerts, and analytics to help organizations maintain high availability and quickly resolve issues, supporting both cloud and on-premise environments.'
 url: https://raw.githubusercontent.com/api-evangelist/wooffer/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:g2-catalog
@@ -12,6 +11,11 @@ created: '2026-10-21'
 modified: '2026-10-21'
 tags:
 - Company
+- Monitoring
+- Server
+- Real-time
+- SaaS
+- Performance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +23,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/wooffer-domain-security.yml
 - type: Website
+  url: https://wooffer.io/
+- type: Blog
+  url: https://wooffer.io/blog
+- type: Documentation
   url: https://wooffer.io/
